@@ -141,6 +141,14 @@ a:hover {
   font-size: 1.1rem;
 }
 
+/*--/ Title m /--*/
+
+.title-m {
+  font-weight: 600;
+  color: #1e1e1e;
+  font-size: 2rem;
+}
+
 /*--/ Title A /--*/
 
 .title-box {
@@ -692,7 +700,7 @@ a:hover {
 .skill-mf .progress {
   background-color: #cde1f8;
   margin: .5rem 0 1.2rem 0;
-  border-radius: 0;
+  border-radius: .2rem;
   height: .7rem;
 }
 
